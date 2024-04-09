@@ -7,7 +7,7 @@ https://allen108108.github.io/blog/2023/04/20/Line%20Bot%20%E9%83%A8%E5%B1%AC%E5
 
 開發可看:
 https://www.youtube.com/watch?v=WBGjy8OMYd4
-https://ithelp.ithome.com.tw/articles/10229397
+https://ithelp.ithome.com.tw/articles/10229397c
 https://www.letswrite.tw/line-bot-rich-menu/
 
 https://www.learncodewithmike.com/2020/06/python-line-bot.html
@@ -17,3 +17,6 @@ https://www.learncodewithmike.com/2020/06/python-line-bot.html
 https://lychee.tw/lychee-blog/153-unibot-function-intro-1.html
 https://www.oxxostudio.tw/articles/201701/line-bot.html
 https://github.com/yaoandy107/line-bot-tutorial
+
+專案 clone
+https://github.com/maso0310/linebot
