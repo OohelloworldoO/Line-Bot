@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=WBGjy8OMYd4
 https://ithelp.ithome.com.tw/articles/10229397
 https://www.letswrite.tw/line-bot-rich-menu/
 
+https://www.learncodewithmike.com/2020/06/python-line-bot.html
+
 參考
 https://www.learncodewithmike.com/2020/06/python-line-bot.html
 https://lychee.tw/lychee-blog/153-unibot-function-intro-1.html
